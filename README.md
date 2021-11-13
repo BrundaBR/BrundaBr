@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### I am Brunda Revadi
+- 🌱Skills : 
+- 📫 How to reach me: https://www.linkedin.com/in/brundarevadi/
+- 😄 Pronouns: She/Her
+- ⚡ Building and Exploring virtual world!
 <!--
 **BrundaBR/BrundaBr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

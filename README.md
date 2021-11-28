@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### I am Brunda Revadi
-- 🌱Skills : 
+- 🌱Skills : Python, web scrapping, web development. Machine learning, Deep learning, Automation.
 - 📫 How to reach me: https://www.linkedin.com/in/brundarevadi/
 - 🐱‍💻 My leetcode profile:https://leetcode.com/brundarevadi/
 - 😄 Pronouns: She/Her

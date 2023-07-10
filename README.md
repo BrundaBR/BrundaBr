@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### I am Brunda Revadi and
-- 🦹🏻‍♀️ I am good at: Python, React ,mysql,Java, web scrapping,Full stack web development, Automation.
+- 🦹🏻‍♀️ I am good at: Python, React ,MySQL, Django,Full stack web development, Automation(Selenium).
 - 📫 How to reach me: https://www.linkedin.com/in/brundarevadi/
 - 💻 My leetcode profile:https://leetcode.com/brundarevadi/
 - ✍🏼 Blog & portfolio : https://www.brundarevadi.com/

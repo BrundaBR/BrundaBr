@@ -4,7 +4,6 @@
 - 🦹🏻‍♀️ I am good at: Python, React ,MySQL, Django,Full stack web development, Automation(Selenium).
 - 📫 How to reach me: https://www.linkedin.com/in/brundarevadi/
 - 💻 My leetcode profile:https://leetcode.com/brundarevadi/
-- ✍🏼 Blog & portfolio : https://www.brundarevadi.com/
 - 😄 Pronouns: She/Her
 - ⚡ Building and Exploring virtual world!
 <!--

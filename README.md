@@ -1,7 +1,7 @@
 ### Hi  👋
 
 #### I am Brunda Revadi and
-- 🦹🏻‍♀️ I am an experienced Python Developer and Support Engineer at Amazon with over three years of backend development expertise. I specialize in Python, Django, and AWS, with a strong focus on building robust applications and services, optimizing key services, and enhancing CI/CD pipelines. I
+- 🦹🏻‍♀️ I am an experienced Python Developer and Support Engineer at Amazon with over three years of backend development expertise. I specialize in Python, Django, and AWS, with a strong focus on building robust applications and services, optimizing key services, and enhancing CI/CD pipelines. 
 - 📫 How to reach me: https://www.linkedin.com/in/brundarevadi/
 - 💻 My leetcode profile:https://leetcode.com/brundarevadi/
 - 😄 Pronouns: She/Her
@@ -31,6 +31,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Django-323330?style=for-the-badge&logo=django&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB-1572B6?style=for-the-badge&logo=django&logoColor=white" />
     <img src="https://img.shields.io/badge/SQL-1572B6?style=for-the-badge&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/Typescript-1572B6?style=for-the-badge&logo=django&logoColor=white" />
+
 
 
  

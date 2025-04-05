@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi  👋
 
 #### I am Brunda Revadi and
-- 🦹🏻‍♀️ I am good at: Python, React ,MySQL, Django,Full stack web development, Automation(Selenium).
+- 🦹🏻‍♀️ I am an experienced Python Developer and Support Engineer at Amazon with over three years of backend development expertise. I specialize in Python, Django, and AWS, with a strong focus on building robust applications and services, optimizing key services, and enhancing CI/CD pipelines. I
 - 📫 How to reach me: https://www.linkedin.com/in/brundarevadi/
 - 💻 My leetcode profile:https://leetcode.com/brundarevadi/
 - 😄 Pronouns: She/Her

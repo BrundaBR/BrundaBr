@@ -29,7 +29,7 @@
 
 ### Connect with me
 
-[<img src="https://cdn-icons-png.flaticon.com/512/2504/2504911.png" width="30" height="30" alt="LeetCode"/>](https://leetcode.com/brundarevadi/)
+[<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="30" height="30" alt="Coding Profile"/>](https://leetcode.com/brundarevadi/)
 [<img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"/>](https://www.linkedin.com/in/brundarevadi/)
 
 

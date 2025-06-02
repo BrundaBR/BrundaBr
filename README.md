@@ -31,5 +31,7 @@
 
 [<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="30" height="30" alt="Coding Profile"/>](https://leetcode.com/brundarevadi/)
 [<img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"/>](https://www.linkedin.com/in/brundarevadi/)
+[<img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="30" height="30" alt="Twitter"/>](https://twitter.com/brunda_revadi)
+
 
 

@@ -37,3 +37,7 @@ Here are some ideas to get you started:
 
  
 </p>
+
+
+![Beto's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrundaBR&show_icons=true&count_private=true)
+

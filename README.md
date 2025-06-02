@@ -44,6 +44,6 @@ Here are some ideas to get you started:
 
 ### Connect with me
 
-[<img align="left" src="" width="30" height="30"/>]([https://www.leetcode.com//](https://leetcode.com/brundarevadi/))
-[<img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"/>](https://www.linkedin.com/in/brundarevadi/))
+![Image](https://github.com/user-attachments/assets/077bcbf0-fd31-4885-b9a6-16a360070b70)(https://leetcode.com/brundarevadi/))
+[<img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"/>](https://www.linkedin.com/in/brundarevadi/)
 

@@ -4,21 +4,6 @@
 - 🦹🏻‍♀️ I am an experienced software developer with over three years of backend development expertise. I specialize in Python, Django, and AWS, with a strong focus on building robust web applications and services, optimizing key services, and enhancing CI/CD pipelines. 
 - 😄 Pronouns: She/Her
 - ⚡ Building and Exploring virtual world!
-<!--
-**BrundaBR/BrundaBr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 
 
@@ -44,6 +29,7 @@ Here are some ideas to get you started:
 
 ### Connect with me
 
-![Image](https://github.com/user-attachments/assets/077bcbf0-fd31-4885-b9a6-16a360070b70)(https://leetcode.com/brundarevadi/))
+[<img src="https://cdn-icons-png.flaticon.com/512/2504/2504911.png" width="30" height="30" alt="LeetCode"/>](https://leetcode.com/brundarevadi/)
 [<img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"/>](https://www.linkedin.com/in/brundarevadi/)
+
 

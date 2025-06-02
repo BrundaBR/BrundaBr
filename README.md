@@ -2,8 +2,6 @@
 
 #### I am Brunda Revadi and
 - 🦹🏻‍♀️ I am an experienced software developer with over three years of backend development expertise. I specialize in Python, Django, and AWS, with a strong focus on building robust web applications and services, optimizing key services, and enhancing CI/CD pipelines. 
-- 📫 How to reach me: https://www.linkedin.com/in/brundarevadi/
-- 💻 My leetcode profile:https://leetcode.com/brundarevadi/
 - 😄 Pronouns: She/Her
 - ⚡ Building and Exploring virtual world!
 <!--
@@ -43,4 +41,9 @@ Here are some ideas to get you started:
 
  
 </p>
+
+### Connect with me
+
+[<img align="left" src="" width="30" height="30"/>]([https://www.leetcode.com//](https://leetcode.com/brundarevadi/))
+[<img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"/>](https://www.linkedin.com/in/brundarevadi/))
 

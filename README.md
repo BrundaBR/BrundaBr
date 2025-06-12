@@ -8,9 +8,9 @@
 
 
 
-<div align="center" margin="100px 0 0 0">
+<div align="left" margin="100px 0 0 0">
 
-<h2 align="center">Stats</h2>
+<h2 align="left">Stats</h2>
 
 ![Beto's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrundaBR&show_icons=true&count_private=true)
 

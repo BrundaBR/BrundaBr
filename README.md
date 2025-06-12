@@ -7,25 +7,19 @@
 
 
 
+
+<div align="center" margin="100px 0 0 0">
+
+<h2 align="center">Stats</h2>
+
 ![Beto's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrundaBR&show_icons=true&count_private=true)
 
 
-#### My Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=react&logoColor=white" />
-    <img src="https://img.shields.io/badge/Django-323330?style=for-the-badge&logo=django&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-1572B6?style=for-the-badge&logo=django&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQL-1572B6?style=for-the-badge&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/Typescript-1572B6?style=for-the-badge&logo=django&logoColor=white" />
 
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BrundaBR&" alt="BrundaBR" /></p>
+</div>
+<br>
 
-
- 
-</p>
 
 ### Connect with me
 

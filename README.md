@@ -12,11 +12,10 @@
 
 <h2 align="left">Stats</h2>
 
-![Beto's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrundaBR&show_icons=true&count_private=true)
+![Brunda's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrundaBR&show_icons=true&count_private=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BrundaBR)
 
-
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BrundaBR&" alt="BrundaBR" /></p>
 </div>
 <br>
 

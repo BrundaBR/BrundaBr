@@ -8,7 +8,7 @@
 
 
 
-<div align="left" margin="100px 0 0 0">
+<!-- <div align="left" margin="100px 0 0 0">
 
 <h2 align="left">Stats</h2>
 
@@ -16,7 +16,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BrundaBR)
 
-</div>
+</div> -->
 <br>
 
 
